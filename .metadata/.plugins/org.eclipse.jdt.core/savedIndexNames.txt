@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Jacob Repositories\APjava2020\.metadata\.plugins\org.eclipse.jdt.core
+3123325315.index
+577358041.index
